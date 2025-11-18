@@ -41,8 +41,6 @@ The primary goal of this project was to master the core concepts of JavaScript s
 
 🧠 **Why Vanilla JS?**
 
-I chose to build this project with Vanilla JS to demonstrate a strong foundation in web development principles:
-
 - Deep Understanding: I wanted to manually manipulate the DOM to appreciate what tools like React do automatically.  
 - Performance: For simple tools, Vanilla JS is faster and lighter than loading a full framework.  
 - Core Skills: Frameworks change, but JavaScript fundamentals remain the same.  
