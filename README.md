@@ -39,7 +39,7 @@ The primary goal of this project was to master the core concepts of JavaScript s
 
 ---
 
-🧠 **Why Vanilla JS? (Interview Talking Point)**
+🧠 **Why Vanilla JS?**
 
 I chose to build this project with Vanilla JS to demonstrate a strong foundation in web development principles:
 
