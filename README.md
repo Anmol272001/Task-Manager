@@ -3,7 +3,7 @@ Task Master - Vanilla JS Task Manager
 
 <br><br>
 
-<a href="https://task-manager-vanilla-js.vercel.app/" target="_blank">Live Demo</a>
+<a href="[https://task-manager-vanilla-js.vercel.app/](https://task-manager-phi-topaz.vercel.app/)" target="_blank">Live Demo</a>
 </h1>
 
 <div align="center">
